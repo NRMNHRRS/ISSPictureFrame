@@ -163,6 +163,6 @@ Reboot and it should automatically start streaming. If the screen is blue then t
 
 [UStream - Standard Definition Stream](https://www.ustream.tv/channel/live-iss-stream)
 
-[Miguel Grinberg's blog post on how he built one for his HDMI scree](https://blog.miguelgrinberg.com/post/watch-live-video-of-earth-on-your-raspberry-pi)
+[Miguel Grinberg's blog post on how he built one for his HDMI screen](https://blog.miguelgrinberg.com/post/watch-live-video-of-earth-on-your-raspberry-pi)
 
 [HDEV](http://eol.jsc.nasa.gov/HDEV/)
